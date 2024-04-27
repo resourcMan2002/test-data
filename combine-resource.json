@@ -1,0 +1,373 @@
+[
+  {
+    "name": "Drawkit",
+    "link": "https://www.drawkit.com/",
+    "desc": "Free illustrations and vector graphics."
+  },
+  {
+    "name": "Icons8",
+    "link": "https://icons8.com/",
+    "desc": "Library of icons for various purposes."
+  },
+  {
+    "name": "Ira Design",
+    "link": "https://iradesign.io/",
+    "desc": "Design tools and resources for web and graphic designers."
+  },
+  {
+    "name": "Storyset",
+    "link": "https://storyset.com/",
+    "desc": "Customizable illustrations for websites and apps."
+  },
+  {
+    "name": "Undraw",
+    "link": "https://undraw.co/",
+    "desc": "Open-source illustrations for any idea you can imagine and create."
+  },
+  {
+    "name": "Blush",
+    "link": "https://blush.design/",
+    "desc": "Illustration generator to make custom, hand-drawn illustrations."
+  },
+  {
+    "name": "ImageUpscaler",
+    "link": "https://imageupscaler.com/",
+    "desc": "Tool for upscaling images with AI."
+  },
+  {
+    "name": "UseModify",
+    "link": "https://usemodify.com/",
+    "desc": "Platform for finding and customizing free-to-use images and videos."
+  },
+  {
+    "name": "Web Gradients",
+    "link": "https://webgradients.com/",
+    "desc": "Collection of gradients for web design."
+  },
+  {
+    "name": "Ionic for React",
+    "link": "https://ionicframework.com/",
+    "desc": "Framework for building cross-platform apps using web technologies."
+  },
+  {
+    "name": "CreateVista",
+    "link": "https://create.vista.com/",
+    "desc": "Online platform for creating visual content."
+  },
+  {
+    "name": "Fonts Space",
+    "link": "https://www.fontspace.com/",
+    "desc": "Platform for downloading free fonts."
+  },
+  {
+    "name": "Inspiration: HTTPSTER",
+    "link": "https://httpster.net/",
+    "desc": "Curated showcase of web design inspiration."
+  },
+  {
+    "name": "Awwwards",
+    "link": "https://www.awwwards.com/",
+    "desc": "Recognition of the talent and effort of the best web designers, developers, and agencies in the world."
+  },
+  {
+    "name": "Refero Design",
+    "link": "https://refero.design/",
+    "desc": "Platform for sharing and discovering design inspiration."
+  },
+  {
+    "name": "Stacksorted",
+    "link": "https://stacksorted.com/buttons",
+    "desc": "Curated collection of buttons for web design."
+  },
+  {
+    "name": "Prashant Sani",
+    "link": "https://prashantsani.com/caferati",
+    "desc": "Portfolio showcasing web design work."
+  },
+  {
+    "name": "Brittany Chiang",
+    "link": "https://brittanychiang.com/",
+    "desc": "Portfolio website for Brittany Chiang, a software engineer and designer."
+  },
+  {
+    "name": "JANT",
+    "link": "https://jant.fr/",
+    "desc": "Personal portfolio of Jant, a designer and developer."
+  },
+  {
+    "name": "All in One: Resource.fyi",
+    "link": "https://resource.fyi/",
+    "desc": "Platform aggregating various web design resources."
+  },
+  {
+    "name": "Web Dev Resources",
+    "link": "https://web-dev-resources.com/#/",
+    "desc": "Compilation of web development resources."
+  },
+  {
+    "name": "Freepik",
+    "link": "https://www.freepik.com/",
+    "desc": "Platform for free vector images, photos, and PSD files."
+  },
+  {
+    "name": "Ai Tools for Everything",
+    "link": "https://aitools.fyi/",
+    "desc": "Collection of AI tools for various purposes."
+  },
+  {
+    "name": "Landing Page Instruction",
+    "link": "https://landingpage.fyi/",
+    "desc": "Instructions and resources for creating landing pages."
+  },
+  {
+    "name": "Components Ideas",
+    "link": "https://devhints.io/",
+    "desc": "Collection of component ideas for web development."
+  },
+  {
+    "name": "Language Snippets",
+    "link": "https://www.30secondsofcode.org/",
+    "desc": "Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less."
+  },
+  {
+    "name": "Ui Components",
+    "link": "https://uiverse.io/",
+    "desc": "Collection of UI components for web development."
+  },
+  {
+    "name": "Color Pallets",
+    "link": "https://picular.co/",
+    "desc": "Platform for exploring color palettes."
+  },
+  {
+    "name": "Fonts Google",
+    "link": "https://fonts.google.com/",
+    "desc": "Library of free and open-source fonts provided by Google."
+  },
+  {
+    "name": "CSS Animation",
+    "link": "https://animista.net/",
+    "desc": "Library of CSS animations."
+  },
+  {
+    "name": "Image & Videos: Unsplash & Pexels",
+    "link": "https://unsplash.com/ & https://www.pexels.com/",
+    "desc": "Platforms for free high-quality images and videos."
+  },
+  {
+    "name": "Full Page Colors",
+    "link": "https://www.realtimecolors.com/",
+    "desc": "Platform for exploring colors for web design."
+  },
+  {
+    "name": "Museum of Websites",
+    "link": "https://www.kapwing.com/museum-of-websites/",
+    "desc": "Collection of screenshots showing the evolution of popular websites."
+  },
+  {
+    "name": "Responsively App",
+    "link": "https://responsively.app/",
+    "desc": "Tool for testing responsive web designs."
+  },
+  {
+    "name": "Unused CSS",
+    "link": "https://unused-css.com/",
+    "desc": "Tool for removing unused CSS from your website."
+  },
+  {
+    "name": "CodeToGo",
+    "link": "https://codetogo.io/",
+    "desc": "Collection of React and JavaScript snippets."
+  },
+  {
+    "name": "No Code Apps Maker: Bubble, Bravo Studio, Thunkable",
+    "link": "https://bubble.io/,https://www.bravostudio.app/,https://thunkable.com/",
+    "desc": "Platforms for creating apps without code."
+  },
+  {
+    "name": "Class Central",
+    "link": "https://www.classcentral.com/",
+    "desc": "Search engine and reviews site for free online courses and MOOCs."
+  },
+  {
+    "name": "Code AI: Blackbox.ai, You.com, ChatGPT",
+    "link": "https://www.blackbox.ai/,https://you.com/,https://chat.openai.com/",
+    "desc": "Platforms utilizing AI for various coding-related tasks."
+  },
+  {
+    "name": "Beautiful AI",
+    "link": "https://www.beautiful.ai/",
+    "desc": "AI-powered presentation software."
+  },
+  {
+    "name": "Copy AI",
+    "link": "https://www.copy.ai/",
+    "desc": "AI-powered tool for generating copy for websites."
+  },
+  {
+    "name": "Fishbowl",
+    "link": "https://www.fishbowlapp.com/",
+    "desc": "Social media platform for professionals to connect and share."
+  },
+  {
+    "name": "Fonts in the Wild",
+    "link": "https://www.fontsinthewild.com/free",
+    "desc": "Website showcasing fonts used in real-world designs."
+  },
+  {
+    "name": "Fonts in Use",
+    "link": "https://fontsinuse.com/",
+    "desc": "Archive of typography inspiration in the real world."
+  },
+  {
+    "name": "Type Wolf",
+    "link": "https://www.typewolf.com/",
+    "desc": "Curated collection of beautiful and free fonts."
+  },
+  {
+    "name": "Tinywow",
+    "link": "https://tinywow.com/",
+    "desc": "All-in-one tool for web design and development."
+  },
+  {
+    "name": "AI Tools",
+    "link": "https://theresanaiforthat.com/",
+    "desc": "Collection of AI tools for various purposes."
+  },
+  {
+    "name": "JavaScript Libraries / Animation",
+    "link": "",
+    "desc": "Libraries for JavaScript animations."
+  },
+  {
+    "name": "Anime.js",
+    "link": "https://animejs.com/",
+    "desc": "JavaScript animation library."
+  },
+  {
+    "name": "Animista",
+    "link": "https://animista.net/",
+    "desc": "Library of CSS animations."
+  },
+  {
+    "name": "Mo.js",
+    "link": "https://mojs.github.io/",
+    "desc": "Motion graphics library."
+  },
+  {
+    "name": "Three.js",
+    "link": "https://threejs.org/",
+    "desc": "JavaScript 3D library."
+  },
+  {
+    "name": "Vivus Instant",
+    "link": "https://maxwellito.github.io/vivus-instant/",
+    "desc": "JavaScript library to animate SVGs."
+  },
+  {
+    "name": "Locomotive Scroll",
+    "link": "https://github.com/locomotivemtl/locomotive-scroll",
+    "desc": "JavaScript library for smooth scrolling."
+  },
+  {
+    "name": "AOS",
+    "link": "https://michalsnik.github.io/aos/",
+    "desc": "Animate On Scroll Library."
+  },
+  {
+    "name": "ScrollReveal.js",
+    "link": "https://scrollrevealjs.org/",
+    "desc": "Easy scroll animations for web and mobile browsers."
+  },
+  {
+    "name": "Particles.js",
+    "link": "https://vincentgarreau.com/particles.js/",
+    "desc": "JavaScript library for creating particles backgrounds."
+  },
+  {
+    "name": "Rough Notation",
+    "link": "https://github.com/rough-stuff/rough-notation",
+    "desc": "JavaScript library for creating rough annotations."
+  },
+  {
+    "name": "AniJS",
+    "link": "https://anijs.github.io/",
+    "desc": "Declarative animations library for the web."
+  },
+  {
+    "name": "Tilt.js",
+    "link": "https://gijsroge.github.io/tilt.js/",
+    "desc": "JavaScript library for creating tilt hover effects."
+  },
+  {
+    "name": "Hover",
+    "link": "https://ianlunn.github.io/Hover/",
+    "desc": "Collection of CSS3 powered hover effects."
+  },
+  {
+    "name": "Magic Animations",
+    "link": "https://www.minimamente.com/project/magic/",
+    "desc": "CSS3 Animations with special effects."
+  },
+  {
+    "name": "Slick",
+    "link": "https://kenwheeler.github.io/slick/",
+    "desc": "Responsive carousel library for web."
+  },
+  {
+    "name": "Kute.js",
+    "link": "https://thednp.github.io/kute.js/",
+    "desc": "Native JavaScript animation engine."
+  },
+  {
+    "name": "Parallax.js",
+    "link": "https://pixelcog.github.io/parallax.js/",
+    "desc": "JavaScript library for creating parallax scrolling effects."
+  },
+  {
+    "name": "Tween.js",
+    "link": "https://createjs.com/tweenjs",
+    "desc": "JavaScript library for tweening and animating HTML5 and JavaScript properties."
+  },
+  {
+    "name": "Typed.js",
+    "link": "https://mattboldt.github.io/typed.js/",
+    "desc": "JavaScript library for creating typing animations."
+  },
+  {
+    "name": "TypeIt.js",
+    "link": "https://www.typeitjs.com/",
+    "desc": "Simple typing effect JavaScript library."
+  },
+  {
+    "name": "CSSFX",
+    "link": "https://cssfx.netlify.app/",
+    "desc": "Collection of CSS effects and animations."
+  },
+  {
+    "name": "AnimXYZ",
+    "link": "https://animxyz.com/",
+    "desc": "Library for creating complex CSS animations."
+  },
+  {
+    "name": "Animate.css",
+    "link": "https://animate.style/",
+    "desc": "Library of CSS animations."
+  },
+  {
+    "name": "Space Grotesk Google Fonts",
+    "link": "https://fonts.google.com/specimen/Space+Grotesk",
+    "desc": "Space Grotesk font on Google Fonts."
+  },
+  {
+    "name": "DevUI",
+    "link": "https://www.devui.io/",
+    "desc": "Styled components for building design systems."
+  },
+  {
+    "name": "Free Illustrations XYZ",
+    "link": "https://freeillustrations.xyz/",
+    "desc": "Library of free illustrations for personal and commercial use."
+  }
+]
+
